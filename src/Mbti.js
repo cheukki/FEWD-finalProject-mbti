@@ -9,7 +9,6 @@ import "./Mbti.css";
 const router = createBrowserRouter([
   {
     path: "/",
-
     element: <StartTest />,
   },
   {
